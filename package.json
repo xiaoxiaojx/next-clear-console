@@ -1,0 +1,21 @@
+{
+  "name": "next-clear-console",
+  "version": "1.0.1",
+  "description": "Clear console.log during production build in your Next.js project",
+  "keywords": [
+    "clear console.log",
+    "console",
+    "next",
+    "plugin",
+    "next plugin"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kaiduo",
+  "license": "ISC",
+  "repository": "xiaoxiaojx/next-clear-console",
+  "bugs": "https://github.com/xiaoxiaojx/next-clear-console/issues",
+  "homepage": "https://github.com/xiaoxiaojx/next-clear-console"
+}
